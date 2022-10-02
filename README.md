@@ -2,7 +2,7 @@
 
 A prometheus exporter for Laravel.
 
-[![Author](http://img.shields.io/badge/author-@superbalist-blue.svg?style=flat-square)](https://twitter.com/superbalist)
+
 [![Build Status](https://img.shields.io/travis/Superbalist/laravel-prometheus-exporter/master.svg?style=flat-square)](https://travis-ci.org/Superbalist/laravel-prometheus-exporter)
 [![StyleCI](https://styleci.io/repos/98516814/shield?branch=master)](https://styleci.io/repos/98516814)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -14,7 +14,7 @@ This package is a wrapper bridging [promphp/prometheus_client_php](https://githu
 ## Installation
 
 ```bash
-composer require superbalist/laravel-prometheus-exporter
+composer require amin3520/laravel-prometheus-exporter
 ```
 
 Register the service provider in app.php
