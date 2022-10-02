@@ -1,13 +1,16 @@
 {
-  "name": "superbalist/laravel-prometheus-exporter",
+  "name": "amin3520/laravel-prometheus-exporter",
   "description": "A prometheus exporter for Laravel",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Superbalist.com a division of Takealot Online (Pty) Ltd",
-      "email": "info@superbalist.com"
-    }
-  ],
+    "authors": [
+        {
+            "name": "amin3536",
+            "email": "am.a9173@gmail.com",
+            "homepage": "https://github.com/amin3536"
+        }
+    ],
+    "homepage": "https://github.com/amin3520/laravel-prometheus-exporter",
+    "keywords": ["Laravel", "prometheus","prometheus-exporter"],
   "require": {
     "php": "^7.2|^8.0",
     "illuminate/support": "^5.3 || ^6.0 || ^7.0 || ^8.0 || ^9.0",
